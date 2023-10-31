@@ -18,4 +18,6 @@ do
     local encrypted = caesar.encrypt(text,23)
     print("Texto original: ", text)
     print("Texto encriptado: ", encrypted)
+    print("Que codigo meu Deus do Ceu!!!!")
+    print("Um dia eu volto pra isso aqui.")
 end
